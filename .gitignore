@@ -1,0 +1,11 @@
+# Project-specific ignores
+RESEARCH_PAPER.md
+PROMPT.md
+METHODOLOGY.md
+.claude/
+copilot.log.md
+COPILOT_LOG.md
+.venv/
+__pycache__/
+data/
+snapshots/

@@ -1,0 +1,1 @@
+"""core — inspection pipeline components."""
