@@ -490,5 +490,3 @@ The system supports two distinct operational modes allowing users to choose betw
 - Total: ~170–180 MB
 
 ---
-
-**This methodology document is formatted for academic presentation, technical reports, and peer review.**
